@@ -1,2 +1,2 @@
 # sctec-autocheck
-Repositório sobre o programa SC TEC Desenvolvedor Back-End [.Net]
+Mini-projeto AutoCheck.ConsoleApp para programa SC TEC Desenvolvedor Back-End [.Net]
