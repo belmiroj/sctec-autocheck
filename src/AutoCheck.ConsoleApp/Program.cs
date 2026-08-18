@@ -105,26 +105,31 @@ namespace AutoCheck.ConsoleApp
             List<string> checklist = veiculo.ObterChecklistObrigatorio();
 
             Console.WriteLine("\n--- AVALIAÇÃO DO CHECKLIST ---");
-            Console.WriteLine("Responda com: 'Bom', 'Regular' ou 'Ruim'\n");
+            Console.WriteLine("Informe o status digitando o número correspondente:");
+            Console.WriteLine("[1] Bom  |  [2] Regular  |  [3] Ruim\n");
 
             foreach (string itemNome in checklist)
             {
                 string status = "";
-                while (status != "Bom" && status != "Regular" && status != "Ruim")
+                while (status == "")
                 {
-                    Console.Write($"Item: {itemNome} -> Status: ");
+                    Console.Write($"Item: {itemNome} [1-Bom, 2-Regular, 3-Ruim]: ");
                     string entrada = (Console.ReadLine() ?? "").Trim();
 
-                    if (!string.IsNullOrEmpty(entrada))
+                    switch (entrada)
                     {
-                        if (entrada.Equals("bom", StringComparison.OrdinalIgnoreCase)) status = "Bom";
-                        else if (entrada.Equals("regular", StringComparison.OrdinalIgnoreCase)) status = "Regular";
-                        else if (entrada.Equals("ruim", StringComparison.OrdinalIgnoreCase)) status = "Ruim";
-                    }
-
-                    if (status == "")
-                    {
-                        Console.WriteLine("Status inválido! Digite apenas 'Bom', 'Regular' ou 'Ruim'.");
+                        case "1":
+                            status = "Bom";
+                            break;
+                        case "2":
+                            status = "Regular";
+                            break;
+                        case "3":
+                            status = "Ruim";
+                            break;
+                        default:
+                            Console.WriteLine("Opção inválida! Digite 1 para Bom, 2 para Regular ou 3 para Ruim.");
+                            break;
                     }
                 }
 
