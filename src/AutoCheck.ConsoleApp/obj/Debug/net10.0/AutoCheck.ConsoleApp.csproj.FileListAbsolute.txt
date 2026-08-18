@@ -1,0 +1,15 @@
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.AssemblyInfo.cs
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.sourcelink.json
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\bin\Debug\net10.0\AutoCheck.ConsoleApp.exe
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\bin\Debug\net10.0\AutoCheck.ConsoleApp.deps.json
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\bin\Debug\net10.0\AutoCheck.ConsoleApp.runtimeconfig.json
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\bin\Debug\net10.0\AutoCheck.ConsoleApp.dll
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\bin\Debug\net10.0\AutoCheck.ConsoleApp.pdb
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.dll
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\refint\AutoCheck.ConsoleApp.dll
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.pdb
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\AutoCheck.ConsoleApp.genruntimeconfig.cache
+C:\Users\55489\Documents\Belmiro Programador\Programas criados\sctec-autocheck\src\AutoCheck.ConsoleApp\obj\Debug\net10.0\ref\AutoCheck.ConsoleApp.dll
