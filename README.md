@@ -33,4 +33,4 @@ Automatizar o checklist de inspeção de veículos (Carros, Motos e Caminhões) 
 1. Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/) instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/belmiroj/sctec-autocheck.git](https://github.com/belmiroj/sctec-autocheck.git)
+   git clone https://github.com/belmiroj/sctec-autocheck.git
